@@ -1,0 +1,3 @@
+this is a file with a small amount of text
+
+and a second line of text

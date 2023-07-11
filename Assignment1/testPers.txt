@@ -1,0 +1,5 @@
+GET /small.txt HTTP/1.0
+connection: keep-alive
+
+GET /small.txt HTTP/1.0
+connection: keep-alive

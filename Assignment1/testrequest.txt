@@ -1,0 +1,9 @@
+GET /notfound HTTP/1.0
+connection: keep-alive
+
+GET /small.txt HTTP/1.0
+
+get /notfound HTTP/1.0
+connection: kep-alive
+
+GET /small.html HTTP/1.0
